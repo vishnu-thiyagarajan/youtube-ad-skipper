@@ -12,7 +12,12 @@ YouTube Ad Skipper is a Chrome extension that automatically clicks the "Skip Ad"
 
 ### Step 1: Download or Clone the Repository
 
-Download the repository as a ZIP file or clone it using the following command and load the unpacked extension in your chrome browser (make sure developer mode is enable)
+Download the repository as a ZIP file or clone it using the following command:
 
 ```sh
 git clone <repository_url>
+```
+
+### Step 2: Load the Extension
+
+Load the unpacked extension in your chrome browser and make sure developer mode is enabled
